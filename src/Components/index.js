@@ -1,4 +1,4 @@
-import Create from './Create.jsx/Create'
+import Create from './Create/Create'
 import View from './View/View'
 import Edit from './Edit/Edit'
 

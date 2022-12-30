@@ -6,13 +6,13 @@ import axios from 'axios'
 const Edit = () => {
     const navigate = useNavigate()
     const { id } = useParams()
-    const [user, setUser] = useState({
+    const [user, setUser] = useState([{
         fname: '',
         lname: '',
         email: '',
         address: '',
         phone: '',
-    })
+    }])
 
     const getUser = async () => {
         try {
@@ -73,6 +73,16 @@ const Edit = () => {
                                 <small> Format: abc@abc.com </small>
                             </div>
                         </div>
+                        {/* 
+                        <div className="form-group col-md-4">
+                            <label className='mb-2'>Email</label>
+                            <select name="name" className='form-control'>
+                                <option disabled>--Select Email--</option>
+                                {user.map((value) => (
+                                    <option key={value.id}>{value.email}</option>
+                                ))}
+                            </select>
+                        </div> */}
                     </div>
 
                     <div className='col-md-8'>

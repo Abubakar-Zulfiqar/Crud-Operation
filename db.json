@@ -2,98 +2,34 @@
   "users": [
     {
       "id": 1,
-      "fname": "test",
-      "lname": "1",
-      "email": "test1@gmail.com",
-      "address": "abc",
+      "fname": "Ali",
+      "lname": "ahmad",
+      "email": "ali@gmail.com",
+      "address": "abc1",
       "phone": "0312-1234567"
     },
     {
       "id": 2,
-      "fname": "test",
-      "lname": "2",
-      "email": "test2@gmail.com",
-      "address": "abc",
+      "fname": "Ahsan",
+      "lname": "rasool",
+      "email": "ahsan@gmail.com",
+      "address": "abc2",
       "phone": "0312-1234567"
     },
     {
       "id": 3,
-      "fname": "test",
-      "lname": "3",
-      "email": "test3@gmail.com",
-      "address": "3",
-      "phone": "0312-1234567"
+      "fname": "Abdul",
+      "lname": "Rehman",
+      "email": "abdul@gmail.com",
+      "address": "abc3",
+      "phone": "0312-4545454"
     },
     {
       "id": 4,
-      "fname": "test",
-      "lname": "4",
-      "email": "test4@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 5,
-      "fname": "test",
-      "lname": "5",
-      "email": "test5@gmail.com",
-      "address": "abc",
-      "phone": "0311-1234567"
-    },
-    {
-      "id": 6,
-      "fname": "test",
-      "lname": "6",
-      "email": "test6@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 7,
-      "fname": "test",
-      "lname": "7",
-      "email": "test7@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 8,
-      "fname": "test",
-      "lname": "8",
-      "email": "test8@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 9,
-      "fname": "test",
-      "lname": "9",
-      "email": "test9@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 10,
-      "fname": "test",
-      "lname": "10",
-      "email": "test10@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 11,
-      "fname": "test",
-      "lname": "11",
-      "email": "test11@gmail.com",
-      "address": "abc",
-      "phone": "0312-1234567"
-    },
-    {
-      "id": 12,
-      "fname": "test",
-      "lname": "12",
-      "email": "test12@gmail.com",
-      "address": "abc",
+      "fname": "Ali",
+      "lname": "Rehman",
+      "email": "rehman@gmail.com",
+      "address": "abc4",
       "phone": "0312-1234567"
     }
   ]
